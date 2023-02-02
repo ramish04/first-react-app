@@ -1,0 +1,12 @@
+piVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: react-app
+  description: first react app
+  tags:
+    - go
+    - website
+spec:
+  type: service
+  lifecycle: production
+  owner: team-a
